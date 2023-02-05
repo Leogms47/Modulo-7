@@ -1,0 +1,16 @@
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.exe
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.deps.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.runtimeconfig.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.runtimeconfig.dev.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ref\ExpressaoTernaria.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.pdb
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.csprojAssemblyReference.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.AssemblyInfoInputs.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.AssemblyInfo.cs
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ref\ExpressaoTernaria.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.pdb
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.genruntimeconfig.cache
