@@ -1,0 +1,16 @@
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.exe
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.deps.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.runtimeconfig.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.runtimeconfig.dev.json
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\ref\Swith_Case.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\bin\Debug\net5.0\Swith_Case.pdb
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.csprojAssemblyReference.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.AssemblyInfoInputs.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.AssemblyInfo.cs
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.csproj.CoreCompileInputs.cache
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\ref\Swith_Case.dll
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.pdb
+C:\Users\leogm\OneDrive\Documentos\Curso de Programação\Linguagem C-Sharp (Basico _Avançado)\Modulo-7\Swith_Case\obj\Debug\net5.0\Swith_Case.genruntimeconfig.cache
